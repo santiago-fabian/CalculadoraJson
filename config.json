@@ -1,6 +1,12 @@
 {
+    "costo_fijo": "25",
+    "iva_global": "1.16",
     "con_rfc": {
-        "iva": "1",
-        "isr": "8"
+        "iva": "8",
+        "isr": "1"
+    },
+    "sin_rfc": {
+        "iva": "16",
+        "isr": "20"
     }
 }
